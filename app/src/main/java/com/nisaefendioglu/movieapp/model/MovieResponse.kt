@@ -1,3 +1,3 @@
 package com.nisaefendioglu.movieapp.model
 
-class MovieResponse : ArrayList<MovieResponseItem>()
+class MovieResponse : ArrayList<MovieItem>()

@@ -1,6 +1,6 @@
 package com.nisaefendioglu.movieapp.model
 
-data class MovieResponseItem(
+data class MovieItem(
     val id: Int,
     val image: Image,
     val name: String,

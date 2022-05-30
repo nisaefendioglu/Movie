@@ -6,7 +6,6 @@ A simple app used dagger-hilt, retrofit2, mvvm, livedata.
 - Retrofit2
 - Dagger-Hilt
 - LiveData
-- Retrofit2
 - Movie Api
 
 ### Screenshots of the app :
